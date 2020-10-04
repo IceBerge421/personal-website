@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: P.S. Berge
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,35 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Doctoral Student in Texts & Technology
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of Central Florida
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I'm a writer, game designer, and study virtual reality, games, and social media.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Virtual reality and embodiment
+- Video game studies
+- Queer social media practices
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Texts & Technology
+    institution: University of Central Florida
+    year: 2024 
+  - course: MFA in Creative Writing
+    institution: University of Alabama
+    year: 2020
+  - course: MA in Composition, Rhetoric, and English Studies
+    institution: University of Alabama
+    year: 2019
+  - course: BA in English (Creative Writing)
+    institution: University of Washington
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,16 +47,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:hello@psberge.com'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://twitter.com/theiceberge
+#- icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+#- icon: github
+#  icon_pack: fab
+# link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +73,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+P.S. Berge is a graduate student in the Texts & Technology PhD program at UCF, where they study VR games that make you kill yourself, queer game fandoms online, and sweating to death. They are also a writer, digital artist, and game designer.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
