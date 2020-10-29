@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Student in Texts & Technology
+role: Doctoral Student in Texts & Technology
 
 # Organizations/Affiliations
 organizations:
