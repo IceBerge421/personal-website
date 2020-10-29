@@ -53,7 +53,7 @@ social:
   link: https://twitter.com/theiceberge
 - icon: cv
   icon_pack: ai
-  link: files/CV.pdf
+  link: files/cv.pdf
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
