@@ -48,12 +48,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:hello@psberge.com'  # For a direct email link, use "mailto:test@example.org".
-- icon: cv
-  icon_pack: ai
-  link: files/CV.pdf
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/theiceberge
+- icon: cv
+  icon_pack: ai
+  link: files/CV.pdf
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
