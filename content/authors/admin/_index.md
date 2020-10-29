@@ -39,6 +39,9 @@ education:
   - course: BA in English (Creative Writing)
     institution: University of Washington
     year: 2016
+  - course: AA in Integrated Studies
+    institution: Cascadia Community College
+    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
