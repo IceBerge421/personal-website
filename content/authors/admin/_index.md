@@ -1,6 +1,6 @@
 ---
 # Display name
-title: P.S. Berge
+title: PS Berge
 
 # Username (this should match the folder name)
 authors:
@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: Doctoral Student in Texts & Technology
+role: PhD Student in Texts & Technology
 
 # Organizations/Affiliations
 organizations:
 - name: University of Central Florida
-  url: ""
+  url: "https://tandt.cah.ucf.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm a writer, game designer, and study virtual reality, games, and social media.
+bio: I'm a video game scholar, writer, and game designer. I study virtual reality and social media.
 
 interests:
 - Virtual reality and embodiment
@@ -29,7 +29,7 @@ education:
   courses:
   - course: PhD in Texts & Technology
     institution: University of Central Florida
-    year: 2024 
+    year: 2025 
   - course: MFA in Creative Writing
     institution: University of Alabama
     year: 2020
