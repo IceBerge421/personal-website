@@ -25,20 +25,23 @@ date_format = "Jan 2006"
   date_start = "2020-08-01"
   date_end = ""
   description = """
-  Responsibilities include:
-  
-  * Research
-  * Crying
-  * VR Production
+  Roles:
+  * Presidential Fellow
   """
 
 [[experience]]
   title = "Graduate Teaching Assistant"
   company = "University of Alabama"
-  company_url = ""
+  company_url = "https://english.ua.edu/"
   location = "Tuscaloosa, AL"
   date_start = "2016-08-01"
   date_end = "2020-05-31"
-  description = """Taught writing, game design, etc."""
+  description = """
+  Roles:
+  * Digital Literacy Mentor
+  * Curriculum Development
+  * Instructor of Record
+  * Graduate Teaching Assistant
+  """
 
 +++

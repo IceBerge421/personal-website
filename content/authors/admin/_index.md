@@ -22,8 +22,10 @@ bio: I'm a video game scholar, writer, and game designer. I study virtual realit
 
 interests:
 - Virtual reality and embodiment
-- Video game studies
-- Queer social media practices
+- Outmersive expeirences
+- Gaming subcultures
+- Queer game studies
+- Transmedia writing
 
 education:
   courses:
@@ -67,6 +69,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 
 
+
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
@@ -77,6 +80,4 @@ user_groups:
 - Visitors
 ---
 
-P.S. Berge is a graduate student in the Texts & Technology PhD program at UCF, where they study VR games that make you kill yourself, queer game fandoms online, and sweating to death. They are also a writer, digital artist, and game designer.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+P.S. Berge is a doctoral student in the Texts & Technology PhD program at UCF, where they study VR games that make you kill yourself, queer game fandoms online, and sweating to death. They are also a writer, digital artist, and game designer.
