@@ -18,7 +18,7 @@ organizations:
   url: "https://tandt.cah.ucf.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm a video game scholar, writer, and game designer. I study virtual reality and social media.
+bio: I'm a video game scholar, writer, and game designer.
 
 interests:
 - Virtual reality and embodiment

@@ -2,7 +2,7 @@
 title: DARKGLOW, a Media Novel
 summary: An illustrated, mixed-reality novel about a band of gloomy gutleggers trying to survive heavy-metal armageddon.
 tags:
-date: ""
+date: "2020-11-1T13:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -28,5 +28,5 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-
+<img src = "mockup.png" width = 100% height = 100%>
 DARKGLOW: A Doom-Metal Apocalypse (~61,700 words) is an illustrated media novel about a band of gloomy gut-leggers in a sludgepunk wasteland trying to stop heavy-metal armageddon.
