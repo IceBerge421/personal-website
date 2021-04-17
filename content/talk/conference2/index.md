@@ -11,8 +11,6 @@ address:
   postcode: 
   country: United States
 
-<button>Click me</button>
-
 summary: 'Berge, P.S., & Britt, R. K. (2020). Dance with me, Claude: Shippers, queerbaiting, and meaning making in the Fire Emblem: Three Houses Twitter Fandom. Manuscript accepted for presentation at the National Communication Association, Indianapolis, IN [Converted for COVID-19], Game Studies Division. *Top Paper Awarded from Game Studies Division.'
 abstract: "The fields of queer game and fandom studies have been fostering critical discussions about the way fan communities perform meaning making in response to queerbaiting (Franklin, 2019; Nordin, 2019). Impetus has been put on the ways empowered fans conduct queer readings, queer play, and queergaming as a way of repurposing and remediating the original work (Ruberg, 2020; Chang, 2017). This study analyzes the complex network of participants within a queer counterpublic by analyzing 115,268 tweets and retweets using four gay-ship hashtags related to the videogame Fire Emblem: Three Houses (Intelligent Systems, 2019). By examining the way numerous structural actors—including the game’s original voice actors, event hashtags and organizers, retweets, zines, data miners, and curators—are at work in the FE3H shipper fandom, this study illustrates the way a queer counterpublic online performs meaning making in order to simultaneously call out the queerbaiting actions of producers while creating, curating, and validating alt-canons of its own."
 

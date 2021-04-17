@@ -81,5 +81,3 @@ user_groups:
 - Researchers
 - Visitors
 ---
-
-P.S. Berge is a doctoral student in the Texts & Technology PhD program at UCF, where they study VR games that make you kill yourself, queer game fandoms online, and sweating to death. They are also a writer, digital artist, and game designer.
