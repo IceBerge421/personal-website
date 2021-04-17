@@ -17,6 +17,8 @@ organizations:
 - name: University of Central Florida
   url: "https://tandt.cah.ucf.edu/"
 
+raw_html     |<script src='http://code.jquery.com/jquery-1.4.2.min.js' /><script type='text/javascript'>|
+
 # Short bio (displayed in user profile at end of posts)
 bio: I'm a video game scholar, writer, and game designer.
 
